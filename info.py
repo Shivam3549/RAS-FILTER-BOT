@@ -68,7 +68,7 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'Rasbotprime') # owner username w
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/RS_Movie')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/RS_Movie')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/RAS_HOW_TO_DOWNLOAD_FILE/12')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/RAS_HOW_TO_DOWNLOAD_FILE/12')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/RAS_HOW_TO_DOWNLOAD_FILE/15')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'RS_Movie') # Support Chat Link Without https:// or @
 
 # True Or False
